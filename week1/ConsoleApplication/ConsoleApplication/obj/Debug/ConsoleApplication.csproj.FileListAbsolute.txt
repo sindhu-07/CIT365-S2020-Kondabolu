@@ -1,0 +1,6 @@
+E:\Freelancer Projects\Windows Applications\C#_Assignments\week1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\Freelancer Projects\Windows Applications\C#_Assignments\week1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\Freelancer Projects\Windows Applications\C#_Assignments\week1\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\Freelancer Projects\Windows Applications\C#_Assignments\week1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+E:\Freelancer Projects\Windows Applications\C#_Assignments\week1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\Freelancer Projects\Windows Applications\C#_Assignments\week1\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
