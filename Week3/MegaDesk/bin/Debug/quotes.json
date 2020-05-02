@@ -1,0 +1,7 @@
+{"CustomerName":"test","QuoteDate":"2020-01-26T08:38:05.8254226+05:30","Desk":{"Width":24,"Depth":48,"Drawers":3,"DeskMaterial":50,"Area":1152},"QuoteTotal":622,"RushDays":3}
+{"CustomerName":"test3","QuoteDate":"2020-01-26T09:05:03.7445227+05:30","Desk":{"Width":24,"Depth":48,"Drawers":4,"DeskMaterial":125,"Area":1152},"QuoteTotal":727,"RushDays":5}
+{"CustomerName":"test4","QuoteDate":"2020-01-26T09:06:47.6321871+05:30","Desk":{"Width":24,"Depth":48,"Drawers":4,"DeskMaterial":125,"Area":1152},"QuoteTotal":727,"RushDays":5}
+{"CustomerName":"test5","QuoteDate":"2020-01-26T09:10:36.711067+05:30","Desk":{"Width":24,"Depth":48,"Drawers":3,"DeskMaterial":300,"Area":1152},"QuoteTotal":837,"RushDays":7}
+{"CustomerName":"test7","QuoteDate":"2020-01-26T09:25:38.4878968+05:30","Desk":{"Width":24,"Depth":48,"Drawers":3,"DeskMaterial":50,"Area":1152},"QuoteTotal":622,"RushDays":3}
+{"CustomerName":"test8","QuoteDate":"2020-01-26T09:57:16.4370951+05:30","Desk":{"Width":24,"Depth":48,"Drawers":3,"DeskMaterial":200,"Area":1152},"QuoteTotal":702,"RushDays":0}
+{"CustomerName":"test9","QuoteDate":"2020-01-26T10:04:24.5560804+05:30","Desk":{"Width":24,"Depth":48,"Drawers":5,"DeskMaterial":50,"Area":1152},"QuoteTotal":722,"RushDays":3}
